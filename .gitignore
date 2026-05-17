@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Temporales
+temp/
+logs/
+
+# Modelos grandes
+modelos/
+
+# Multimedia
+*.wav
+*.mp3
+*.mp4
+
+# Subtitulos generados
+*.srt
+
+# Archivos temporales
+*.tmp
